@@ -1,0 +1,7 @@
+pandas
+numpy
+pyspark
+mlxtend
+matplotlib
+seaborn
+openpyxl
